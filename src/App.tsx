@@ -89,7 +89,7 @@ function App() {
       {/* Home */}
       <section id="home" className="min-h-screen flex items-center justify-center pt-16 bg-gradient-to-b from-[#1e40af] to-[#2563eb]">
         <div className="text-center animate-on-scroll px-4 sm:px-6">
-          <img src="project/src/assets/PFP.jpg" alt="Image Not Found" className="rounded-full w-40 h-40 sm:w-60 sm:h-60 mx-auto border-4 border-white shadow-xl object-cover mb-6" />
+          <img src="src/assets/PFP.jpg" alt="PFP" className="rounded-full w-40 h-40 sm:w-60 sm:h-60 mx-auto border-4 border-white shadow-xl object-cover mb-6" />
           <h1 className="text-4xl sm:text-5xl font-bold text-white mb-2">Taha Ali B.</h1>
           <h2 className="text-xl sm:text-2xl text-[#93c5fd] mb-6 animate-fade-in-loop">
   Front End Web Developer
